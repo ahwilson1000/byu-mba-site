@@ -1,0 +1,32 @@
+.container {
+  max-width: 720px;
+  margin: auto;
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+}
+.center {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+.avatar {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+}
+h1 {
+  font-size: 2rem;
+}
+h2 {
+  margin-top: 2rem;
+  font-size: 1.5rem;
+}
+ul {
+  list-style: disc;
+  margin-left: 1.5rem;
+}
+a {
+  color: #2563eb;
+  text-decoration: none;
+}
